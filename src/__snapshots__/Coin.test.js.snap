@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/0a/George_Washington_Presidential_%241_Coin_obverse.png"
+  />
+</div>
+`;
